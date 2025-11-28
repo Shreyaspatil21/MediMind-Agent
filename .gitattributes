@@ -1,0 +1,6 @@
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+example filter=lfs diff=lfs merge=lfs -text
+for filter=lfs diff=lfs merge=lfs -text
+Jupyter filter=lfs diff=lfs merge=lfs -text
+notebooks filter=lfs diff=lfs merge=lfs -text
